@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Direct to github
+            Direct to github - version 2
         </div>
     </form>
 </body>
